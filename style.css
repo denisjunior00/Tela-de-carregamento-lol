@@ -1,0 +1,28 @@
+main {
+    background: linear-gradient(black, blue, black);
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+    
+    
+section {
+    background-color: white;
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    justify-content: center;
+}
+    
+div {
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+
+
+h1, p {
+    color: white;
+}
